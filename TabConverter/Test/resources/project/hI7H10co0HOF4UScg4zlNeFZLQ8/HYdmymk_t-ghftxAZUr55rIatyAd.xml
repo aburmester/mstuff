@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <MetadataNode>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="TabConverter" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="f968af9e-db85-4dc0-be1f-8ba34ddff757:type:Label">
+                    <node name="Info">
+                        <entry value="Data" key="Name" />
+                        <entry value="WRITABLE" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints" />
+        <path value="Root:type:Extensions" />
+        <path value="Root:type:Files">
+            <path value="TabConverter.m:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="Tabs:type:File">
+                <node name="Info" />
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="BlueSky.txt:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID" />
+                            <node name="Label">
+                                <entry value="f968af9e-db85-4dc0-be1f-8ba34ddff757" key="UUID" />
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+            <path value="Test:type:File">
+                <node name="Info" />
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="TabConverterTest.m:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID" />
+                            <node name="Label">
+                                <entry value="test" key="UUID" />
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:ProjectData" />
+        <path value="Root:type:ProjectPath">
+            <path value="2c6d364b-9edd-47c4-8e82-8b318f2770d3:type:Reference">
+                <node name="Info">
+                    <entry value="Tabs" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="7119329e-fe6e-4222-9040-dfebcbea1695:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="8f4bd0e8-cf0b-4240-89ff-2ab41329459f:type:Reference">
+                <node name="Info">
+                    <entry value="Test" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Files>
+        <File path="TabConverter.m" value="bb9bf20d" />
+        <File path="TabConverter.prj" value="fe84b66d" />
+        <File path="Tabs/BlueSky.txt" value="565e666e" />
+        <File path="Tabs" value="-1" />
+        <File path="Test/TabConverterTest.asv" value="b2614d33" />
+        <File path="Test/TabConverterTest.m" value="f080ed8a" />
+        <File path="Test/TabConverterTest.prj" value="fe84b66d" />
+        <File path="Test/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/dQQhLTLLiuk0FJXNNS_c1zSwziId.xml" value="23431c7a" />
+        <File path="Test/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/dQQhLTLLiuk0FJXNNS_c1zSwziIp.xml" value="166a0735" />
+        <File path="Test/resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1" />
+        <File path="Test/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/hI7H10co0HOF4UScg4zlNeFZLQ8d.xml" value="b2554df3" />
+        <File path="Test/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0/hI7H10co0HOF4UScg4zlNeFZLQ8p.xml" value="6baa74f3" />
+        <File path="Test/resources/project/LUgSFhI3RPozNzNcutxrczVe6f0" value="-1" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="eff7b485" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="7b002da4" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="7716e543" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="4cce81bc" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="9fa19c1e" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="69a90595" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="4434695f" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="435fd6b1" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="b32f4cc5" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="9ee37d25" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="657f94e3" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="a55c6f90" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="3a808e07" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="81b62498" />
+        <File path="Test/resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1" />
+        <File path="Test/resources/project/Project.xml" value="afc53f38" />
+        <File path="Test/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="d2dc6b71" />
+        <File path="Test/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="24933817" />
+        <File path="Test/resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1" />
+        <File path="Test/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/cll8L-zQioqI86sPDaT9dA87LwYd.xml" value="e3fa644d" />
+        <File path="Test/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/cll8L-zQioqI86sPDaT9dA87LwYp.xml" value="c4383668" />
+        <File path="Test/resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1" />
+        <File path="Test/resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="2b03b801" />
+        <File path="Test/resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="eea8f21b" />
+        <File path="Test/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="a4d2e3ab" />
+        <File path="Test/resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c92de2c0" />
+        <File path="Test/resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="fe97d152" />
+        <File path="Test/resources/project/root/LUgSFhI3RPozNzNcutxrczVe6f0p.xml" value="7e9e5259" />
+        <File path="Test/resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="1b49afbb" />
+        <File path="Test/resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="7e742dae" />
+        <File path="Test/resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="4a2f6ccc" />
+        <File path="Test/resources/project/rootp.xml" value="3af507e" />
+        <File path="Test/resources/project/root" value="-1" />
+        <File path="Test/resources/project/uuid-99a4d932-1735-41db-bb31-c269465eb004.xml" value="3af507e" />
+        <File path="Test/resources/project" value="-1" />
+        <File path="Test/resources" value="-1" />
+        <File path="Test" value="-1" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Lglg_DamieC7OwRNaznhl2qdtswd.xml" value="74f999bd" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/Lglg_DamieC7OwRNaznhl2qdtswp.xml" value="5e9ce8d7" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/_4HVAM50Mkcl-XvPHg6dbieNhFgd.xml" value="a39d90f7" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/_4HVAM50Mkcl-XvPHg6dbieNhFgp.xml" value="5825f4bc" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/p_MrIaDXcV3vkgCdBDmMywoIFOcd.xml" value="23431c7a" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA/p_MrIaDXcV3vkgCdBDmMywoIFOcp.xml" value="d3b18cbe" />
+        <File path="resources/project/EEtUlUb-dLAdf0KpMVivaUlztwA" value="-1" />
+        <File path="resources/project/IfmMXrsg5ZrAJK0qryzPrN76S_k/s605KiXv3y_B5jtaZNa6Jq7Gq3sd.xml" value="3af507e" />
+        <File path="resources/project/IfmMXrsg5ZrAJK0qryzPrN76S_k/s605KiXv3y_B5jtaZNa6Jq7Gq3sp.xml" value="8bc72372" />
+        <File path="resources/project/IfmMXrsg5ZrAJK0qryzPrN76S_k/ymgG_Tz9l3NRJCG3dpf1L-utK44d.xml" value="2bda82c8" />
+        <File path="resources/project/IfmMXrsg5ZrAJK0qryzPrN76S_k/ymgG_Tz9l3NRJCG3dpf1L-utK44p.xml" value="2f37e05f" />
+        <File path="resources/project/IfmMXrsg5ZrAJK0qryzPrN76S_k" value="-1" />
+        <File path="resources/project/KFo_Dwac-c6l-izxoptPkC0Bs88/A0Ahp2y4u1Lk8-WP4vHITFg-h8Qd.xml" value="e3fa644d" />
+        <File path="resources/project/KFo_Dwac-c6l-izxoptPkC0Bs88/A0Ahp2y4u1Lk8-WP4vHITFg-h8Qp.xml" value="c4383668" />
+        <File path="resources/project/KFo_Dwac-c6l-izxoptPkC0Bs88/faLsK_O3tTkUDXx1d2FbfpCoMs4d.xml" value="3af507e" />
+        <File path="resources/project/KFo_Dwac-c6l-izxoptPkC0Bs88/faLsK_O3tTkUDXx1d2FbfpCoMs4p.xml" value="8bc72372" />
+        <File path="resources/project/KFo_Dwac-c6l-izxoptPkC0Bs88" value="-1" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4d.xml" value="eff7b485" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/2kj09UetkV_lru3gvSPXnY6-nM4p.xml" value="7b002da4" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/DtvCA_Wk1GkcWJ32dNItqkCCjLId.xml" value="4c4995b2" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/DtvCA_Wk1GkcWJ32dNItqkCCjLIp.xml" value="47511d08" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8d.xml" value="7716e543" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/KKyDJtbdIBOlaeHmIZd5VX6vqx8p.xml" value="4cce81bc" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4d.xml" value="9fa19c1e" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/QWNDYJD5mGW1bWYvPx9DtKnxzw4p.xml" value="69a90595" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Id.xml" value="4434695f" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/R1RggVhA72agIvELiuhWPRS8F0Ip.xml" value="435fd6b1" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZod.xml" value="b32f4cc5" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/aEHSZBIY-yve10yGis12Zr5DLZop.xml" value="9ee37d25" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencd.xml" value="657f94e3" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/j4xwF_j8iFTVayUMfxLgMnTbencp.xml" value="a55c6f90" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkd.xml" value="3a808e07" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs/r8LR4nLmg9ai3oHrW1r_-KocQzkp.xml" value="81b62498" />
+        <File path="resources/project/NjSPEMsIuLUyIpr2u1Js5bVPsOs" value="-1" />
+        <File path="resources/project/Project.xml" value="afc53f38" />
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsd.xml" value="d2dc6b71" />
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k/NjSPEMsIuLUyIpr2u1Js5bVPsOsp.xml" value="24933817" />
+        <File path="resources/project/fjRQtWiSIy7hIlj-Kmk87M7s21k" value="-1" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IfmMXrsg5ZrAJK0qryzPrN76S_kd.xml" value="3af507e" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IfmMXrsg5ZrAJK0qryzPrN76S_kp.xml" value="a1d9450b" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IynXHrZe_kLIDZO2ZmMVfjoE92od.xml" value="df0217e1" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/IynXHrZe_kLIDZO2ZmMVfjoE92op.xml" value="3e1b8da7" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KFo_Dwac-c6l-izxoptPkC0Bs88d.xml" value="3af507e" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ/KFo_Dwac-c6l-izxoptPkC0Bs88p.xml" value="a9d2de5b" />
+        <File path="resources/project/qaw0eS1zuuY1ar9TdPn1GMfrjbQ" value="-1" />
+        <File path="resources/project/root/6x1BhZX_fLnKpcwqra0qFwv1jIgp.xml" value="2b03b801" />
+        <File path="resources/project/root/EEtUlUb-dLAdf0KpMVivaUlztwAp.xml" value="eea8f21b" />
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQd.xml" value="32ea08e8" />
+        <File path="resources/project/root/GiiBklLgTxteCEmomM8RCvWT0nQp.xml" value="c92de2c0" />
+        <File path="resources/project/root/KAXfQgCar2Yb8zOxgvf9hdmLP1Ep.xml" value="fe97d152" />
+        <File path="resources/project/root/NmGqIpAwUJcXFyLjFAGnU9uyN5Yp.xml" value="1b49afbb" />
+        <File path="resources/project/root/fjRQtWiSIy7hIlj-Kmk87M7s21kp.xml" value="7e742dae" />
+        <File path="resources/project/root/qaw0eS1zuuY1ar9TdPn1GMfrjbQp.xml" value="4a2f6ccc" />
+        <File path="resources/project/rootp.xml" value="3af507e" />
+        <File path="resources/project/root" value="-1" />
+        <File path="resources/project/uuid-7c75b9a3-9482-46a9-95a7-1d8c75a8cc64.xml" value="3af507e" />
+        <File path="resources/project" value="-1" />
+        <File path="resources" value="-1" />
+    </Files>
+    <Date value="June 16, 2022 8:51:49 PM" />
+</Info>
