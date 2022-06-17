@@ -5,6 +5,6 @@ function GitPush(comment, filesToAdd)
     
     system(['git add ', filesToAdd]);
     system(['git commit -m "', comment, '"']);
-    system('git push')
+    system('git push');
 end
 
