@@ -1,6 +1,13 @@
 classdef TabConverterTest < matlab.unittest.TestCase
     properties
         tabFile = 'BlueSky.txt'
+        proj
+    end
+    
+    methods(TestClassSetup)
+        function OpenProject(testCase)
+            testCase.proj = openProject(fileparts(mfilename('fullpath')));
+        end
     end
     
     methods(Test)
